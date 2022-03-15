@@ -1,0 +1,6 @@
+CreateMesh Start 46 CB 0m 0m 8
+CreateMesh End 46 
+TransferDataToSolver Start 46 
+TransferDataToSolver End 46 
+ShowFirstPlot Start 46 
+ShowFirstPlot End 46 
